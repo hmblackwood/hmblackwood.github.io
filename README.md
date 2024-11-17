@@ -1,4 +1,12 @@
-# hmblackwood.github.io
-theme: jekyll-theme-minimal
-title: Heather Blackwood's Portfolio
-description: Bookmark this to keep an eye on my project updates!
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
